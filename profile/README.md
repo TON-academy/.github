@@ -1,5 +1,14 @@
-## Hi there 👋
+## 🙋‍♀️ Welcome  to TON academy
 
+
+### English
+
+TON academy is an organization focused on bringing information to crypto enthusiasts in the TON Blockchain ecosystem trough an easy user experience with Telegram integration. 👩‍💻
+
+
+### Spanish
+
+TON academy es una organizacion centrada en llevar contenido educativo sobre el ecosistema de la cadena de bloques TON, ofreciendo una experiencia de usuario sencilla a traves de la integracion con Telegram.👩‍💻
 <!--
 
 **Here are some ideas to get you started:**
